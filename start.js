@@ -10,4 +10,8 @@
           [housingLocation]="housingLocation">
         </app-housing-location>
       }
-    </section>
+    </section >
+
+  <section>
+    Patched information
+  </section>
